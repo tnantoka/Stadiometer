@@ -1,0 +1,37 @@
+PODS:
+  - AcknowList (1.4)
+  - AdFooter (7.24.0)
+  - Keys (1.0.0)
+  - PKHUD (4.2.3)
+
+DEPENDENCIES:
+  - AcknowList
+  - AdFooter (from `https://github.com/tnantoka/AdFooter.git`)
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - PKHUD (from `https://github.com/pkluz/PKHUD.git`)
+
+EXTERNAL SOURCES:
+  AdFooter:
+    :git: https://github.com/tnantoka/AdFooter.git
+  Keys:
+    :path: Pods/CocoaPodsKeys
+  PKHUD:
+    :git: https://github.com/pkluz/PKHUD.git
+
+CHECKOUT OPTIONS:
+  AdFooter:
+    :commit: fb86db953a2660d4ebc279f57eba102b8255afc1
+    :git: https://github.com/tnantoka/AdFooter.git
+  PKHUD:
+    :commit: 69fa94c0a497cb9d6d8fc3536ea5ee0be7e82bdd
+    :git: https://github.com/pkluz/PKHUD.git
+
+SPEC CHECKSUMS:
+  AcknowList: 1fae3fa62f256ddd1001adf20ba5c52743515ac7
+  AdFooter: 0349884e68bf8cba8d83a42ae673a3a35623b5ef
+  Keys: 9c35bf00f612ee1d48556f4a4b9b4551e224e90f
+  PKHUD: 351011b853e6b942e7ee8ad335864cc84c787241
+
+PODFILE CHECKSUM: 0cd2f73ba150cd4f969ce4270396bcf968249934
+
+COCOAPODS: 1.3.1
