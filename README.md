@@ -2,8 +2,7 @@
 
 The measure/ruler app with ARKit.
 
-<img src="/screenshot1.png" width="40%">
-<img src="/screenshot2.png" width="40%">
+![](/screenshot.png)
 
 ## Requirement
 
@@ -23,5 +22,5 @@ MIT
 
 ## Author
 
-[@tnantoka][https://twitter.com/tnantoka]
+[@tnantoka](https://twitter.com/tnantoka)
 
